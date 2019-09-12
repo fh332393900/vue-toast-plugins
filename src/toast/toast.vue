@@ -18,14 +18,6 @@ export default {
       type:'',
       hide:''
     }
-  },
-  methods: {
-
-  },
-  watch:{
-    hide(){
-      console.log(this.hide)
-    }
   }
 }
 </script>
